@@ -9,3 +9,6 @@ lscpu
 lsblk
 uname -r
 free -m
+iostat
+sar
+id
