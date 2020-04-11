@@ -12,3 +12,6 @@ free -m
 iostat
 sar
 id
+cat /proc/meminfo
+cat /proc/cpuinfo
+lsb_release -a
