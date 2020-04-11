@@ -12,3 +12,6 @@ free -m
 iostat
 sar
 id
+cat /etc/os-release
+sar -u
+nproc
